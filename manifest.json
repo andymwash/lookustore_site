@@ -1,0 +1,6 @@
+{
+  "name": "SafeRoute Nav",
+  "short_name": "SafeRoute",
+  "start_url": "/",
+  "display": "standalone"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "looku-store",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Looku Store \u2014 Netlify (website + serverless API) with Supabase (Postgres)",
+  "scripts": {
+    "build": "echo Building Functions"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "pg": "^8.11.5",
+    "serverless-http": "^3.2.0"
+  }
+}
