@@ -10,7 +10,6 @@ const CACHE_ASSETS  = [
   '/style.css',
   '/app.js',
   '/data.js',
-  '/api.js',
   '/looku_logo.png',
   '/manifest.json'
 ];
